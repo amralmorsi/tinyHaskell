@@ -26,8 +26,9 @@ The repo also has Obsidian-flavoured markdown files thoroughly laying down all t
 - Case expressions
 
 ### TODO
-1. [x] Lexer.
-2. [x] Parser.
-3. [ ] Type-checker.
-4. [ ] STG Code Generator.
-5. [ ] C-code Generator. 
+1. [x] CLI Abstraction
+2. [x] Lexer.
+3. [x] Parser.
+4. [ ] Type-checker.
+5. [ ] STG Code Generator.
+6. [ ] C-code Generator. 
