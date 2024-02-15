@@ -8,9 +8,10 @@ These "mystery boxers" mainly are:
 3. Lexers.
 4. Parsers.
 5. Type-checker.
-6. C-code Generator.
+6. Code Generator.
 
 The repo also has Obsidian-flavoured markdown files thoroughly laying down all the details (with code snippets) about how each stage of the compiler is going to be implemented.
+
 ### What subset of Haskell?
 - Algebraic Data Types
 - Multiple function heads with multiple patterns
@@ -24,3 +25,9 @@ The repo also has Obsidian-flavoured markdown files thoroughly laying down all t
 - If then else expression
 - Case expressions
 
+### TODO
+1. [x] Lexer.
+2. [x] Parser.
+3. [ ] Type-checker.
+4. [ ] STG Code Generator.
+5. [ ] C-code Generator. 
